@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: NI Department for the Economy Postdoctoral Researcher
+role: NI Department for the Economy Postdoctoral Researcher (2020-2021)
 
 # Organizations/Affiliations
 organizations:
