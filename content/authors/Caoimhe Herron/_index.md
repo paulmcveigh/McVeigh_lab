@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postgraduate Research Student
+role: NI Department for the Economy Research Student (2020-2023)
 
 # Organizations/Affiliations
 organizations:
@@ -18,21 +18,21 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: DfE PhD student
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- microRNA biology
+- Host-Parasite Interactions
+- Molecular Parasitology
 
 education:
   courses:
   - course: MSc Parasitology and Pathogen Biology
     institution: Queen's University Belfast
-    year: 20XX
+    year: 2018
   - course: BSc Microbiology
     institution: Queen's University Belfast
-    year: 20XX
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,16 +41,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:cherron11@qub.ac.uk'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,6 +66,4 @@ user_groups:
 - Postgraduate Research Students
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My PhD project focuses on the population of microRNAs that are secreted by the liver fluke, Fasciola hepatica. I work to understand in which life stages these are expressed, and I use in silico and in vivo tools to characterise their interactions with the mRNAs of mammalian hosts.
